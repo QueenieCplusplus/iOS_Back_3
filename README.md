@@ -64,4 +64,4 @@ to do a iBeacon Sensor feature with sys notification when app is running in back
         }
 
 
-
+![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_3/main/iBeacon.png)

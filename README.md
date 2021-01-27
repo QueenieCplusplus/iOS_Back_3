@@ -7,6 +7,8 @@ to do a iBeacon Sensor feature with sys notification when app is running in back
 
 1. define K/V in info propert list.
 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_3/main/info_property_list.png)
+
 
 2. code in ViewController.
 

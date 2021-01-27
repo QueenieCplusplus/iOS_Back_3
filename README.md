@@ -2,6 +2,9 @@
 to do a iBeacon Sensor feature with sys notification when app is running in background
 
 
+    ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_3/main/thumbnail.png)
+
+
 1. define K/V in info propert list.
 
 

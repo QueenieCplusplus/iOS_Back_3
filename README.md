@@ -63,4 +63,3 @@ to do a iBeacon Sensor feature with sys notification when app is running in back
 
 
 
-3. error & success thumbnail.

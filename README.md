@@ -68,4 +68,6 @@ to do a iBeacon Sensor feature with sys notification when app is running in back
 
 * setup for allowing BLE app running in Background.
 
- https://github.com/QueenieCplusplus/iOS_Back_16/blob/main/README.md
+   https://github.com/QueenieCplusplus/iOS_Back_16/blob/main/README.md
+   
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_3/main/allow%20background%20mode.png)
